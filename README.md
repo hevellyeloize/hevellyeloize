@@ -1,8 +1,8 @@
-## Olá! Eu sou a Hevelly Eloize 
+# Olá! Meu nome é Hevelly
 
-- 🩷 Estudando Ciência da Computação
+- 🩷 No momento, estou estudando Ciência da Computação na <a href="https://www3.unicentro.br">Unicentro</a>
 - 📩 Contate-me no email: hevellyeloizedossantos@gmail.com
-
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Hevy-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/java/java-original.svg">
@@ -15,6 +15,5 @@
  
 <div> 
   <a href="https://instagram.com/hevelly_eloize" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://open.spotify.com/user/31hwa5tpii6dtufn5qk7feqo7ycy" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 </div>
