@@ -18,6 +18,3 @@
   <a href="https://open.spotify.com/user/31hwa5tpii6dtufn5qk7feqo7ycy" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 
 </div>
-
-##
-![Snake animation](https://github.com/hevellyeloize/hevellyeloize/blob/output/github-contribution-grid-snake.svg)
