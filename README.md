@@ -1,4 +1,4 @@
-# Olá! Meu nome é hevy
+# Olá! Meu nome é Hevelly
 
 - 🩷 No momento, estou estudando Ciência da Computação na <a href="https://www3.unicentro.br">Unicentro</a>
 - 📩 Contate-me no email: hevellyeloizedossantos@gmail.com
